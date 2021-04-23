@@ -1,3 +1,9 @@
+# Tim Cockerill
+
+## Web Developer based in Charlotte, North Carolina
+
+---
+
 - 👋 Hi, I’m Tim!
 - 👀 I’m interested in JS, React, and MERN stack.
 - 🌱 I’m currently learning the fundamentals of React.
